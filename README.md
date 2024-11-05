@@ -57,7 +57,7 @@ int main() {
 }
 ```
 # OUTPUT
-![image](https://github.com/user-attachments/assets/6683bcfc-f081-439a-a423-3dc626fb4e1c)
+![image](https://github.com/user-attachments/assets/25dedfb7-9423-46df-b104-87893af915d0)
 
 # Result
 The back end of the compiler is implemented successfully, and the output is verified.
